@@ -30,7 +30,7 @@ An interactive Customer Churn Analysis Dashboard built using Power BI that:
 
 - Identifies high-risk customer segments
 
-= Provides drill-through functionality for deeper analysis
+- Provides drill-through functionality for deeper analysis
 
 - Enables business teams to take targeted retention actions
 
@@ -65,7 +65,7 @@ https://www.kaggle.com/code/farazrahman/telco-customer-churn-logisticregression/
 
 - Donut Chart: Churn by Gender
 
-= Slicers: Contract Type filtering
+- Slicers: Contract Type filtering
 
 - Drill-Through: Contract Type → Detailed Churn Analysis
 
