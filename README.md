@@ -1,6 +1,6 @@
 # Telco_Customer_Churn_Analysis
 
-**📊 Customer Churn Analysis Dashboard (Power BI)**
+## **📊 Customer Churn Analysis Dashboard (Power BI)**
 
 📌 Overview
 
@@ -12,27 +12,27 @@ The dashboard provides a clear, single-page view of key churn metrics and allows
 
 Subscription-based businesses often face challenges in:
 
-Identifying customers who are likely to churn
+- Identifying customers who are likely to churn
 
-Understanding the factors contributing to churn
+- Understanding the factors contributing to churn
 
-Taking proactive steps to improve customer retention
+- Taking proactive steps to improve customer retention
 
-Without proper analysis, churn decisions remain reactive rather than strategic.
+- Without proper analysis, churn decisions remain reactive rather than strategic.
 
 **✅ Proposed Solution**
 
 An interactive Customer Churn Analysis Dashboard built using Power BI that:
 
-Tracks key churn KPIs
+- Tracks key churn KPIs
 
-Analyzes churn by contract type, tenure, pricing, tech support, and gender
+- Analyzes churn by contract type, tenure, pricing, tech support, and gender
 
-Identifies high-risk customer segments
+- Identifies high-risk customer segments
 
-Provides drill-through functionality for deeper analysis
+= Provides drill-through functionality for deeper analysis
 
-Enables business teams to take targeted retention actions
+- Enables business teams to take targeted retention actions
 
 **📂 Dataset**
 
@@ -55,35 +55,35 @@ https://www.kaggle.com/code/farazrahman/telco-customer-churn-logisticregression/
 
 **📊 Dashboard Visuals**
 
-Bar Chart: Churn by Contract Type
+- Bar Chart: Churn by Contract Type
 
-Column Chart: Avg Monthly Charges by Churn
+- Column Chart: Avg Monthly Charges by Churn
 
-100% Stacked Column Chart: Churn by Tenure
+- 100% Stacked Column Chart: Churn by Tenure
 
-Bar Chart: Churn by Tech Support
+- Bar Chart: Churn by Tech Support
 
-Donut Chart: Churn by Gender
+- Donut Chart: Churn by Gender
 
-Slicers: Contract Type filtering
+= Slicers: Contract Type filtering
 
-Drill-Through: Contract Type → Detailed Churn Analysis
+- Drill-Through: Contract Type → Detailed Churn Analysis
 
 **🔍 Drill-Through Functionality**
 
 Users can right-click on a contract type (Month-to-Month, One Year, Two Year) to drill through into a detailed page showing:
 
-Churn distribution
+- Churn distribution
 
-Pricing impact
+- Pricing impact
 
-Tenure-based churn
+- Tenure-based churn
 
-Tech support analysis
+- Tech support analysis
 
-This enables deeper root-cause investigation without overcrowding the main dashboard.
+- This enables deeper root-cause investigation without overcrowding the main dashboard.
 
-** 🛠 Tools & Technologies**
+**🛠 Tools & Technologies**
 
 | Tool | Purpose |
 |------|---------|
@@ -95,15 +95,15 @@ This enables deeper root-cause investigation without overcrowding the main dashb
 
 **📌 Key Insights**
 
-Month-to-Month contracts show the highest churn
+- Month-to-Month contracts show the highest churn
 
-Higher monthly charges increase churn probability
+- Higher monthly charges increase churn probability
 
-Customers without tech support churn more frequently
+- Customers without tech support churn more frequently
 
-Early-tenure customers have higher churn risk
+- Early-tenure customers have higher churn risk
 
-Gender has minimal impact on churn behavior
+- Gender has minimal impact on churn behavior
 
 **🚀 Conclusion**
 
@@ -111,15 +111,15 @@ This project demonstrates how business intelligence tools can be used to uncover
 
 **🔮 Future Scope**
 
-Predictive churn modeling using Machine Learning
+- Predictive churn modeling using Machine Learning
 
-Customer segmentation for personalized offers
+- Customer segmentation for personalized offers
 
-Real-time dashboard integration
+- Real-time dashboard integration
 
-Automated churn alerts
+- Automated churn alerts
 
-CRM system integration
+- CRM system integration
 
 
 **👩‍💻 Author**
