@@ -1,6 +1,7 @@
 # Telco_Customer_Churn_Analysis
 
 **📊 Customer Churn Analysis Dashboard (Power BI)**
+
 📌 Overview
 
 Customer churn directly impacts business growth and revenue. This project focuses on analyzing customer churn using an interactive Power BI dashboard to identify high-risk customers, understand churn drivers, and support data-driven retention strategies.
@@ -122,5 +123,7 @@ CRM system integration
 
 
 **👩‍💻 Author**
-Sara Mali
+
+## Sara Mali
+
 Aspiring Data Analyst | Business Intelligence Enthusiast
